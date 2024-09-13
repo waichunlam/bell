@@ -1,5 +1,5 @@
 
-> 在 [https://waichunlam.github/bell/](https://waichunlam.github/bell/) 打開此頁面
+> 在 [https://github.com/waichunlam/bell/](https://github.com/waichunlam/bell/) 打開此頁面
 
 ## 作為擴充功能使用
 
