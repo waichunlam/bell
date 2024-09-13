@@ -1,5 +1,5 @@
 
-> 在 [https://waichunlam.github.io/bell_micro-bit/](https://waichunlam.github.io/bell/) 打開此頁面
+> 在 [https://waichunlam.github.io/bell/](https://waichunlam.github.io/bell/) 打開此頁面
 
 ## 作為擴充功能使用
 
